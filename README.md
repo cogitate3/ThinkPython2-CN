@@ -21,7 +21,7 @@
 - [@cxyfreedom](https://github.com/cxyfreedom)
   完成第16章的翻译。
 
-本书目前托管在[编程派网站](http://codingpy.com/books/thinkpython2)。
+本书目前托管在[编程派网站](https://codingpy.com/books/thinkpython2/)。
 
 使用 Sphinx 制作的 PDF、EPUB 等电子版的分享链接为：http://pan.baidu.com/s/1eRZOrHC。 提取码: n24y。
 
